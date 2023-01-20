@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GIT/Labyrinthe/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/PC_Adventurer.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Look.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Move.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Inputs/IMC_Adventurer.uasset",
+				"C:/GIT/Labyrinthe/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GM_Adventurer.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Sprint.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_Torche.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_Collision.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_Adventurer.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_Switch.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_FakeSwitch.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Crouch.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Interact.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Jump.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_WinGate.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_Trap.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Maps/WinLevel.umap",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Meshes/Static/CrewMate/among_us.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Meshes/Static/CrewMate/Among_us_UrbanFoxGamer_Cube.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Meshes/Static/CrewMate/Among_us_UrbanFoxGamer_Cube_001.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Meshes/Static/CrewMate/Among_us_UrbanFoxGamer_Cube_002.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Meshes/Static/CrewMate/Among_us_UrbanFoxGamer_Cube_003.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Meshes/Static/CrewMate/Material_006.uasset",
+				"C:/GIT/Labyrinthe/Content/StarterContent/Architecture/Material_006.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_WinCamera.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Rules/GM_Win.uasset",
+				"C:/GIT/Labyrinthe/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/GameObjects/BP_WinArea.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Adventurer.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/GIT/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset"
+			]
+		}
+	]
+}
